@@ -1,5 +1,11 @@
 # Student Churn Analysis & Prediction
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-yellow)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-red)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Classification-green)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Models-orange)
+
 ---
 
 ## Project Overview
