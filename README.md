@@ -1,4 +1,4 @@
-# Student Churn Analysis & Prediction
+# Student Churn Prediction Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-yellow)
